@@ -1,0 +1,43 @@
+body {
+    font-family: 'Amatic SC', cursive;
+    background: black;
+    margin: 0;
+}
+
+.container {
+    width: 650px;
+    /* background-color: red; */
+    margin: 40px auto;
+    padding: 40px;
+}
+
+button {
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    font-weight: 700;
+    border-radius: 5px;
+    padding: 17px 30px;
+    margin: 10px;
+}
+
+button:hover,
+button:focus {
+    background-color: #CC6868;
+}
+
+button:active {
+    background-color: red;
+    color: white;
+}
+
+.section{
+    /* display: inline-block; */
+    /* margin: 40px auto;
+    width: 575px; */
+}
+
+#emergency-btn {
+    /* font-weight: 700;
+    /* background-color: red;
+    color: white; */ */
+}
